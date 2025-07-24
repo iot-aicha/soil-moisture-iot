@@ -30,9 +30,12 @@ This project demonstrates an IoT-based soil moisture monitoring system that auto
 
 📷 Project Setup
 
-Here's how the sensor is wired:
+Here's how the project is on the web :
 
 ![the web page Setup](images/web-interface.png)
+
+and those are the devices used :
+
 ![the virtual devices used](images/sensor-actuator.png)
 
 🙌 Acknowledgments
