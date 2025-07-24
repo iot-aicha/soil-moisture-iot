@@ -28,5 +28,12 @@ This project demonstrates an IoT-based soil moisture monitoring system that auto
 
 - Public/Private X.509 authentication
 
+📷 Project Setup
+
+Here's how the sensor is wired:
+
+![the web page Setup](images/web-interface.png)
+![the virtual devices used](images/sensor-actuator.png)
+
 🙌 Acknowledgments
 Created as part of an IoT smart agriculture project using Azure and Python.
